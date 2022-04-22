@@ -1,0 +1,19 @@
+h1{
+    background-color: aqua;
+    color: blue;
+
+}
+
+body{
+    background-color: aliceblue;
+}
+
+#btn{
+    height: 40px;
+    width: 200px;
+}
+
+#btn:hover{
+    background-color: brown;
+    border: 0px;
+}
